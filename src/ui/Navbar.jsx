@@ -4,6 +4,7 @@ import home from "../images/home.png";
 import favorite from "../images/favorite.png";
 import discover from "../images/discover.png";
 import profile from "../images/profile.png";
+import logo from "../images/logo.png";
 
 function Navbar({ favorites }) {
   return (
@@ -12,7 +13,7 @@ function Navbar({ favorites }) {
         to="/"
         className="flex items-center gap-0.5 py-2 pb-4 text-xl font-semibold transition-all duration-300 ease-in-out hover:scale-[1.04]"
       >
-        <img src="/src/images/logo.png" className="max-w-8" />
+        <img src={logo} className="max-w-8" />
         RTX CORE
       </Link>
 
