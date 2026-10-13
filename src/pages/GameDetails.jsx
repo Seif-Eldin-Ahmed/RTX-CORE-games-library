@@ -231,7 +231,7 @@ function GameDetails({ favorites, handleFavorites, stores: allStores }) {
                     type: isFavorite ? "remove" : "success",
                   });
                 }}
-                className="-mt-2 w-fit rounded-lg border border-gray-200 bg-gray-100 px-4 py-2 text-base font-medium transition-all duration-300 hover:-translate-y-1 hover:border-gray-300 hover:bg-gray-200 hover:shadow-md sm:text-xl"
+                className="-mt-2 w-fit cursor-pointer rounded-lg border border-gray-200 bg-gray-100 px-4 py-2 text-base font-medium transition-all duration-300 hover:-translate-y-1 hover:border-gray-300 hover:bg-gray-200 hover:shadow-md sm:text-xl"
               >
                 <div className="flex items-center gap-2">
                   <img
