@@ -38,21 +38,21 @@ A modern and responsive game discovery platform built with **React**, **Vite**, 
 
 ## 📸 Screenshots
 
-![RTX CORE - Homepage](1.png)
+![RTX CORE - Homepage](src/images/1.png)
 
-![RTX CORE - Homepage - More Games](2.png)
+![RTX CORE - Homepage - More Games](src/images/2.png)
 
-![RTX CORE - Homepage - Search, Sorting, and Genre Filters](3.png)
+![RTX CORE - Homepage - Search, Sorting, and Genre Filters](src/images/3.png)
 
-![RTX CORE - Game Details](4.png)
+![RTX CORE - Game Details](src/images/4.png)
 
-![RTX CORE - Game Details - Additional Information](5.png)
+![RTX CORE - Game Details - Additional Information](src/images/5.png)
 
-![RTX CORE - Game Details - Available Stores](6.png)
+![RTX CORE - Game Details - Available Stores](src/images/6.png)
 
-![RTX CORE - Game Details - Store Link Interaction](7.png)
+![RTX CORE - Game Details - Store Link Interaction](src/images/7.png)
 
-![RTX CORE - Favorites Page](8.png)
+![RTX CORE - Favorites Page](src/images/8.png)
 
 Add screenshots of your application here to showcase the interface.
 
